@@ -1,6 +1,6 @@
 Ola, me chamo Leo e sou um jovem aprendiz em programação
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/c5/d9/6d/c5d96db2adaabb12755daf6308aa8812.gif" />
+<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/810571323470118983/810571917421445140/a_3e87ebea396235d083a880276553da00.gif" />
 <hr>
 📚 Languanges: None
 

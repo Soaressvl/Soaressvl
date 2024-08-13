@@ -1,13 +1,14 @@
-Ola, me chamo Leo e sou um jovem aprendiz em programação
+Ola, me chamo Leo, sou um jovem aprendiz em programação cursando Desenvolvimento De Sistemas (1/3)
 
 <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/810571323470118983/810571917421445140/a_3e87ebea396235d083a880276553da00.gif" />
 <hr>
-📚 Languanges: Python 
 
-🛠 Tools:Visual Code Studio, Sublime Text and Github
+🛠 Tools:Visual Code Studio, Sublime Text, Github and Netbeans
 
-💻 Currently studying -
-Python and Javascript
+💻 Currently studying [1/3] -
+Web Development (HTML5, CSS3, JavaScript, Bootstrap, React (Basic))
+Database Management: MySQL, SQLite.
+Programming Languages: Java, C#, Python.
 <hr>
 
 

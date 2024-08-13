@@ -7,8 +7,11 @@ Ola, me chamo Leo, sou um jovem aprendiz em programação cursando Desenvolvimen
 
 💻 Currently studying [1/3] -
 Web Development (HTML5, CSS3, JavaScript, Bootstrap, React (Basic))
+<br>
 Database Management: MySQL, SQLite.
+<br>
 Programming Languages: Java, C#, Python.
+<br>
 <hr>
 
 
